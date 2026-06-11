@@ -6,7 +6,6 @@ Fake News Detection is a Natural Language Processing (NLP) and Machine Learning 
 
 This project demonstrates the complete NLP pipeline, including data preprocessing, text vectorization, feature scaling, model training, and performance evaluation.
 
----
 
 # Features
 
@@ -39,7 +38,7 @@ A probabilistic classification algorithm commonly used in text classification ta
 
 A distance-based classification algorithm that predicts the class of a news article based on the labels of its nearest neighbors.
 
----
+
 
 # Project Workflow
 
@@ -75,7 +74,6 @@ Evaluate model performance using classification metrics.
 
 Predict whether unseen news articles are Fake or Real.
 
----
 
 # Evaluation Metrics
 
@@ -88,7 +86,7 @@ The models are evaluated using:
 
 These metrics provide a comprehensive assessment of the classifier's performance.
 
----
+
 
 # Installation
 
@@ -111,11 +109,9 @@ Download the spaCy language model:
 python -m spacy download en_core_web_lg
 ```
 
----
-
 # Project Structure
 
-```text
+text
 Fake-News-Detector/
 │
 ├── Fake_Real_Data.csv
@@ -128,7 +124,7 @@ Fake-News-Detector/
 └── assets/
 ```
 
----
+
 
 # Learning Outcomes
 
@@ -141,7 +137,7 @@ This project provides practical experience in:
 * Model Evaluation
 * Text Analytics
 
----
+
 
 # Future Enhancements
 
@@ -151,7 +147,7 @@ This project provides practical experience in:
 * Advanced text preprocessing techniques
 * Hyperparameter optimization for improved accuracy
 
----
+
 
 # Conclusion
 
