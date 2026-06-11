@@ -125,7 +125,7 @@ Fake-News-Detector/
 ├── notebooks/
 └── assets/
 ```
-  Screenshots
+Screenshots
 <img width="819" height="416" alt="Screenshot from 2026-06-11 14-56-39" src="https://github.com/user-attachments/assets/6c55d4ca-dc85-471b-8ce6-e78c34502737" />
 <img width="819" height="416" alt="Screenshot from 2026-06-11 14-57-16" src="https://github.com/user-attachments/assets/c9ae5f2e-98de-46d3-b3d1-d3273bb969aa" />
 
